@@ -35,7 +35,7 @@
 
 **下载**
 
-[安装此脚本](https://raw.githubusercontent.com/yuanze31/Steam-Economy-Enhancer-CN/master/code.user.js)
+[安装此脚本](https://github.com/yuanze31/Steam-Economy-Enhance-CN/raw/master/code.user.js)
 
 _[Violentmonkey](https://violentmonkey.github.io/) 必要前置（但是我用油猴）_
 

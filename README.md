@@ -1,66 +1,62 @@
-# Steam Economy Enhancer
+# Steam 库存市场增强器
 
-A free userscript to enhance your Steam Inventory, Steam Market and Steam Tradeoffers.
+这是一个免费的脚本，用于增强您的 Steam 库存、市场和交易体验。
 
-It adds the following features to the Steam Market:
+它为 Steam 市场添加了以下功能：
 
-*    Detect overpriced and underpriced items.
-*    Select 5/25/all (overpriced) items and remove them at once.
-*    (Automatically) relist overpriced items.
-*    Sort and search items by name, price or date.
-*    Total price for listings, as seller and buyer.
+- 检测定价过高和定价过低的物品
+- 一次性选择 5/25/所有（定价过高的）物品并移除
+- （自动）重新上架定价过高的物品
+- 按名称、价格或日期对物品进行排序和搜索
+- 出售和求购的列表总价
 
-It adds the following features to the Steam Inventory:
+它为 Steam 库存添加了以下功能：
 
-*    Sell all (selected) items or trading cards automatically.
-*    Select multiple items simultaneously with *Shift* or *Ctrl*.
-*    Market sell and buy listings added to the item details.
-*    Quick sell buttons to sell an item without confirmations.
-*    Shows the lowest listed price for each item.
-*    Turn selected items into gems.
-*    Unpack selected booster packs.
+- 自动出售所有（选定的）物品或交易卡
+- 使用*Shift*或*Ctrl*同时选择多个物品
+- 将市场出售和求购列表添加到物品详情中
+- 快速出售按钮，无需确认即可出售物品
+- 显示每个物品的最低上市价格
+- 将选定物品转化成宝石
+- 打开选定的加速包
 
-It adds the following features to the Steam Tradeoffers:
+它为 Steam 交易提议添加了以下功能：
 
-*    A summary of all items from both parties that includes total number of items, number of unique items and item count breakdown (how many of each item there are)
-*    Select all items of the current page.
-*    Shows the lowest listed price for each inventory item.
+- 双方所有物品的总结，包括物品总数、特殊物品数量和物品计数细分（每种物品有多少个）
+- 选择当前页面的所有物品
+- 显示每个库存物品的最低出售价格
 
-The pricing can be based on the lowest listed price, the price history and your own minimum and maximum prices.
-This can be defined in Steam Economy Enhancer's settings, which you can find at the top of the page near the *Install Steam* button.
+定价可以基于最低出售价格、最近成交价格和您自己的最低和最高价格
+这可以在 Steam 库存市场增强器的设置中定义，您可以在页面顶部靠近 _安装 Steam_ 按钮的地方找到
 
-**Note**
+**注意**
 
-It is free but there is **NO** support. If you want to add functionality, feel free to submit a PR.
+这是一个免费的脚本，你可以提交 Pr 或 Issue，但是我对于其不做任何保证
 
-**Download**
+**下载**
 
-[Install Steam Economy Enhancer](https://raw.githubusercontent.com/Nuklon/Steam-Economy-Enhancer/master/code.user.js)
+[安装此脚本](https://raw.githubusercontent.com/yuanze31/Steam-Economy-Enhancer-CN/master/code.user.js)
 
-*[Violentmonkey](https://violentmonkey.github.io/) is required to install.*
+_[Violentmonkey](https://violentmonkey.github.io/) 必要前置（但是我用油猴）_
 
 **Screenshots**
 
+_市场_
 
-*Market*
+![市场](https://yuanze31.github.io/image/Steam-Economy-Enhancer-CN/Market.png)
 
-![Market](http://i.imgur.com/cQx5J9e.png)
+_库存_
 
+![库存](https://yuanze31.github.io/image/Steam-Economy-Enhancer-CN/Inventory.png)
 
-*Inventory*
+_设置_
 
-![Inventory](http://i.imgur.com/9BuLN78.png)
+![设置](https://yuanze31.github.io/image/Steam-Economy-Enhancer-CN/Options.png)
 
+_报价_
 
-*Options*
+![报价](https://yuanze31.github.io/image/Steam-Economy-Enhancer-CN/Trade%20offers.png)
 
-![Options](http://i.imgur.com/eShpvEO.png)
+**开源许可证**
 
-
-*Trade offers*
-
-![Tradeoffers](http://i.imgur.com/vdVeXHi.png)
-
-**License**
-
-MIT
+[GPLv3](https://www.gnu.org/licenses/gpl-3.0.txt)

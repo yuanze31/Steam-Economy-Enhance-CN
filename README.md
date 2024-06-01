@@ -39,7 +39,7 @@
 
 _[Violentmonkey](https://violentmonkey.github.io/) 必要前置（但是我用油猴）_
 
-**Screenshots**
+**效果**
 
 _市场_
 
